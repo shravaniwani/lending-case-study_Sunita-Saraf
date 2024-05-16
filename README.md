@@ -13,7 +13,7 @@ Benefits of case study:
 
 Detail analysis process: 
 
-Step 1: Data Cleaning 1
+Step 1: Data Cleaning
 
 Step 2: Univariate Analysis
 
